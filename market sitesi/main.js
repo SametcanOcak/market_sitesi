@@ -1,0 +1,5 @@
+gsap.from('.navbar', 1.2, {opacity:0, y:-80, delay:0.5})
+gsap.from('#main-content, form', 1.2, {opacity:0, x:-80, delay:0.5})
+gsap.from('#main-content2', 1.2, {opacity:0, x:80, delay:0.5})
+gsap.from('#aboutuspic', 1.7, {opacity:0, x:-80, delay:0.5})
+gsap.from('#aboutustext', 1.7, {opacity:0, x:80, delay:0.5})
